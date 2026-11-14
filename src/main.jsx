@@ -20,7 +20,7 @@ import "./styles.css";
 
 const links = {
   github: "https://github.com/KavI-S07",
-  linkedin: "https://www.linkedin.com/in/kavimalar-s-5a3b78374/",
+  linkedin: "https://www.linkedin.com/in/s-kavimalar-5a3b78374/",
   leetcode: "https://leetcode.com/u/KavimalarS/",
 };
 
